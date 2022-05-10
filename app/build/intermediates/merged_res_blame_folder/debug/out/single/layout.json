@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\inicio_sesion_fragment.xml",
+        "source": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\src\\main\\res\\layout\\inicio_sesion_fragment.xml"
+    },
+    {
+        "merged": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\src\\main\\res\\layout\\content_main.xml"
+    }
+]
