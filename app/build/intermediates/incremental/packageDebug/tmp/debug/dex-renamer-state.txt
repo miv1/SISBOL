@@ -1,0 +1,4 @@
+#Sun May 01 17:59:39 BOT 2022
+base.0=C\:\\Aplicaciones\\android-studio\\CuestionarioEducacion\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
